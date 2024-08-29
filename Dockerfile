@@ -25,6 +25,3 @@ EXPOSE 5005
 
 # Command to start Rasa
 CMD ["run", "--enable-api", "--cors", "*", "--debug", "--port", "5005"]
-Last edited just now
-
-
